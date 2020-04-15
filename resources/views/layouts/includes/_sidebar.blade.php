@@ -9,7 +9,7 @@
 						<li><a href="/surat_masuk" class=""><i class="lnr lnr-enter"></i> <span>Surat Masuk</span></a></li>
 						<li><a href="suratkeluar" class=""><i class="lnr lnr-exit"></i> <span>Surat Keluar</span></a></li>
 						<li><a href="/disposisi" class=""><i class="lnr lnr-text-format"></i> <span>Disposisi</span></a></li>
-						<li><a href="panels.html" class=""><i class="lnr lnr-user"></i> <span>User</span></a></li>
+						<!--<li><a href="panels.html" class=""><i class="lnr lnr-user"></i> <span>User</span></a></li>-->
 						<!--
 						<li><a href="notifications.html" class=""><i class="lnr lnr-alarm"></i> <span>Notifications</span></a></li>
 						<li>

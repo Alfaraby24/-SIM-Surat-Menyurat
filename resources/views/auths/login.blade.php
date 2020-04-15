@@ -2,7 +2,7 @@
 <html lang="en" class="fullscreen-bg">
 
 <head>
-	<title>Login | Klorofil - Free Bootstrap Dashboard Template</title>
+	<title>Login | SIM SURAT MENYURAT</title>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -30,7 +30,7 @@
 					<div class="left">
 						<div class="content">
 							<div class="header">
-								<div class="logo text-center"><img src="{{asset('admin/assets/img/logo-dark.png')}}" alt="Klorofil Logo"></div>
+								<div class="logo text-center"><img src="{{asset('admin/assets/img/plane.png')}}" alt="Klorofil Logo"></div><br><br>
 								<p class="lead">Login</p>
 							</div>
 							<form class="form-auth-small" action="/postlogin" method="POST">
@@ -54,8 +54,7 @@
 					<div class="right">
 						<div class="overlay"></div>
 						<div class="content text">
-							<h1 class="heading">Aplikasi Data</h1>
-							<p>by Good Person</p>
+							<h1 class="heading">SIM SURAT MENYURAT</h1>
 						</div>
 					</div>
 					<div class="clearfix"></div>

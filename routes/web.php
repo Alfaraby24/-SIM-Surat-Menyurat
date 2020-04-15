@@ -59,3 +59,7 @@ Route::group(['middleware' => 'auth'], function(){
 	Route::get('/suratkeluar/{id}/delete' , 'SuratkeluarController@delete');
 
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
